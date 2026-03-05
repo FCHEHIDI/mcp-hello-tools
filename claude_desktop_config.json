@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-hello-tools": {
+      "command": "D:\\ModelContextProtocol\\repos\\mcp-hello-tools\\target\\release\\mcp-hello-tools.exe",
+      "args": []
+    }
+  }
+}
